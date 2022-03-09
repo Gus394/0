@@ -8,7 +8,7 @@ bool crescente(int vet[], int tam);
 
 int main()
 {
-	int vet[tam] = { 0 }; // Como definir o tamanho do vetor de forma dinâmica?
+	int vet[tam] = { 0 };
 	for (int i = 0; i < tam; i++) {
 		std::cin >> vet[i];
 	}
